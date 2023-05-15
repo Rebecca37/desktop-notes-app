@@ -1,0 +1,9 @@
+version 0.1: released Feb 17, 2023.
+Functionality that was implemented
+- User can create, rename, edit and delete notes.
+- User can create, rename and delete folders, which contain notes.
+- Creating notes or folders is done through the top level menu bar.
+- Renaming notes or folders is done through the toolbar.
+- Deleting notes or folders is can be done through the top level menu bar or the toolbar.
+- Can expand and shrink application, with a set limit, and position and size will persist when application is closed and opened again.
+- Application can be launched through distribution script.

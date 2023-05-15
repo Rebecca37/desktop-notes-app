@@ -1,0 +1,9 @@
+version 0.4: released April 10, 2023.
+Functionality that was implemented
+- Data stored remotely
+- User can launch multiple instances
+- Disable buttons unusable when in Recently Deleted folder
+- User can empty (delete) all notes in Recently Deleted folder
+- Disable empty or only whitespace note or folder naming
+- Light and Dark Mode (Additional feature)
+- Password authentication login (Additional feature)

@@ -1,0 +1,12 @@
+version 0.2: released March 10, 2023.
+Functionality that was implemented
+- User can bold, underline, italicize and colour text.
+- User can use bullet point formatting for text.
+- User can cut, copy and paste text.
+- User can undo or redo anything written or done in the text field.
+- User can move notes to different folders.
+- User can sort notes based on title, date modified, date created.
+- Hotkeys for functions are displayed in dropdown menus for both Mac and Windows.
+- When user updates notes, date modified is reflected in the note data.
+- Note data persists throughout use of the application.
+- Note data persists even after closing the application and reopening it.

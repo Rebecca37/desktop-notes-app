@@ -1,0 +1,8 @@
+version 0.3: released March 24, 2023.
+Functionality that was implemented
+- User Data is saved in a local database accessed through a web service.
+- User can't rename or create folders or notes to be an existing name.
+- User can search notes based on title or by content.
+- User can undo/redo actions using hotkeys or menubar buttons.
+- When user deletes a file, it moves to a recently deleted folder (Additional feature)
+- Recently Deleted folder can't be modified but user can retrieve that file or permanently delete it.
